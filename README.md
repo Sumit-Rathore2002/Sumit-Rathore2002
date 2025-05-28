@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm [Your Name]
+<h1>### 👋 Hi there, I'm Sumit Rathore</h1>
 
 I'm a **Front-End Developer** with 6 months of hands-on experience building responsive websites and interactive user interfaces.
 

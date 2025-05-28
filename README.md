@@ -1,10 +1,12 @@
-<div align="center" style="background-color:#f0f0f0; padding:20px; border-radius:10px;">
-  <h2>About Me</h2>
-  <p>I love building creative websites and applications.</p>
-</div>
-<div class="card" style="background:red;">
-  <h1 align="center">Hi 👋, I'm Sumit Rathore</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### 👋 Hi there, I'm [Your Name]
+
+I'm a **Front-End Developer** with 6 months of hands-on experience building responsive websites and interactive user interfaces.
+
+- 🌱 Currently learning **React** and **PHP**
+- 🎨 Skilled in design tools like **Adobe Photoshop** and **Illustrator**
+- 💻 Love working with **HTML**, **CSS**, and **JavaScript**
+- 🚀 Always improving and exploring new technologies
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-doe&label=Profile%20views&color=0e75b6&style=flat" alt="john-doe" /> </p>
 
@@ -12,7 +14,8 @@
 - 💬 Ask me about **React, Node.js, CSS**
 - 📫 How to reach me: **its02sumit@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+📫 Let's connect and create something amazing!
+
 <p align="left">
 <a href="https://linkedin.com/in/john-doe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="john-doe" height="30" width="40" /></a>
 <a href="https://twitter.com/johndoe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="johndoe" height="30" width="40" /></a>
@@ -24,4 +27,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
-</div>

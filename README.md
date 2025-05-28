@@ -1,6 +1,9 @@
 <h1>### 👋 Hi there, I'm Sumit Rathore</h1>
-# 💫 About Me:
-i'm currently working as front end web develoepr ,<br>learn react and php<br>
+<p>
+ # 💫 About Me:
+<br>
+i'm currently working as front end web develoepr ,<br>learn react and php
+</p>
 
 
 ## 🌐 Socials:

@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sumit Rathore</h1>
+<div class="card" style="background:red;">
+  <h1 align="center">Hi 👋, I'm Sumit Rathore</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-doe&label=Profile%20views&color=0e75b6&style=flat" alt="john-doe" /> </p>
@@ -19,3 +20,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
+</div>

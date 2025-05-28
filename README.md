@@ -1,8 +1,10 @@
 <h1>### 👋 Hi there, I'm Sumit Rathore</h1>
 <p>
- # 💫 About Me:
+ I've been programming since 2024 in HTML, CSS, JAVASCRIPT and JQUERY.
 <br>
-i'm currently working as front end web develoepr ,<br>learn react and php
+🌍 I'm based in India
+🧠 I'm learning React, Php
+🤝 I'm open to collaborating on any React.js or Next.js project.
 </p>
 
 

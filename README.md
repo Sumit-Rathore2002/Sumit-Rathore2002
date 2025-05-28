@@ -1,3 +1,7 @@
+<div align="center" style="background-color:#f0f0f0; padding:20px; border-radius:10px;">
+  <h2>About Me</h2>
+  <p>I love building creative websites and applications.</p>
+</div>
 <div class="card" style="background:red;">
   <h1 align="center">Hi 👋, I'm Sumit Rathore</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
